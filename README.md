@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti-singhal" alt="srishti-singhal" /></a> </p>
 
-![image_processing20201105-595-1kvfeq7](https://user-images.githubusercontent.com/99279286/153721420-61364f53-2214-47ee-8444-bf3ba47d658a.gif)  
+
+<img align="right" width="300" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+
 
 
 - 🌱 I’m currently learning **HTML, CSS & Machine Learning with Python**
