@@ -29,7 +29,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srishti-Singhal&theme=nord_bright)
 
-<img align="right" width="300" height="500" src="https://c.tenor.com/nxMxbORTz-UAAAAd/bitrix24-bitrix24office.gif">
+<img align="right" width="300" src="https://c.tenor.com/nxMxbORTz-UAAAAd/bitrix24-bitrix24office.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishti-singhal&theme=solarized-light&show_icons=true&locale=en" alt="srishti-singhal" /></p>
 
