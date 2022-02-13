@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srishti Singhal</h1>
+<h1 align="center">Hello! 🙋 , I'm Srishti Singhal 👩‍💻</h1>
 <h3 align="center">Self-motivated Computer Science Engineering student with keen interest in coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti-singhal&label=Profile%20views&color=0e75b6&style=flat" alt="srishti-singhal" /> </p>
