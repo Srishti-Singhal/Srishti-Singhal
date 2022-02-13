@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishti-singhal" alt="srishti-singhal" /></a> </p>
 
 
-<img align="right" width="400" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" width="300" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
 
