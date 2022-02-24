@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishti-singhal&theme=solarized-light&show_icons=true&locale=en" alt="srishti-singhal" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-singhal&" alt="srishti-singhal" /></p>
+
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif">
 
