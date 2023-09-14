@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS & Machine Learning with Python**
+- 🌱 I’m currently working on **some mini projects**
 
 - 📫 How to reach me **srishtisinghal476@gmail.com**
 
